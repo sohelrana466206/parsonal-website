@@ -1,0 +1,89 @@
+h1{
+    font-size: 40px;
+}
+.name{
+   color:#d63384 ; 
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 3%;
+    vertical-align: center;
+     
+
+    text-align: left;
+    
+    
+}
+    
+.half-width img{
+    width: 80%;
+    
+}
+
+.top-banner{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+     
+}
+ 
+section{
+    height: 500px;
+     margin-bottom: 150px;
+}
+.hear-me{
+   background-image: linear-gradient(#ff589b,#ff136b);
+   color: white;
+    border-color: turquoise;
+   border-radius:  7px;
+   cursor: pointer;
+ 
+    
+}
+button a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+    padding: 10px 25px;
+     
+}
+.latest-work{
+    text-align: center;
+     
+}
+.latest-work img{
+    height: 300px;
+     
+    display: inline;
+    margin: 10px;
+    border-radius: 10px;
+}
+.client{
+    margin-top: 40px;
+    text-align: center;
+}
+ h5{
+     color: gray;
+ }
+ .foter{
+     border: hotpink solid 5px;
+     height: 120px;
+     width: 500px;
+     background-color: hotpink;
+     border-radius: 10px;
+     margin: 10px;
+     padding: 20px;
+     text-align: center;
+   position: relative;
+   margin-left: 395px;
+   color: white;
+    
+ }
+.foter p{
+ align-items: center;
+ color: white;
+}
+footer{
+    text-align: center;
+}
